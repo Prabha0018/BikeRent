@@ -26,14 +26,13 @@ To get started with BIKERENTALS, follow these steps:
    git clone https://github.com/Prabha0018/BikeRent.git
    
 2. Navigate to the project directory
-   ```sh
+
    cd Client
    
-4.Install dependencies
-```sh
+3.Install dependencies
+ ```sh
    npm install
-
-5.Create a .env file in the root directory and add your Supabase credentials:
+4.Create a .env file in the root directory and add your Supabase credentials:
 ```sh
   VITE_SUPABASE_URL=your-supabase-url
   VITE_SUPABASE_ANON_KEY=your-anon-key
