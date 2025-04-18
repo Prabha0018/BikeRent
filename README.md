@@ -4,6 +4,8 @@
 
 BIKERENTALS is a MERN stack-inspired project developed using Vite, React, and Supabase. It's an online bike rental platform that allows users to explore, compare, and reserve bikes for both personal and business purposes.
 
+site in live⚡ click the link for demo -> https://ryd-on.netlify.app/
+
 ## Built With
 - Supabase (PostgreSQL, Auth, Storage)
 - React.js
