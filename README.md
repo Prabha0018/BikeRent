@@ -26,7 +26,7 @@ To get started with BIKERENTALS, follow these steps:
    git clone https://github.com/Prabha0018/BikeRent.git
    
 2. Navigate to the project directory
-   ``sh
+   ```sh
    cd Client
    
 4.Install dependencies
