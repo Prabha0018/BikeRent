@@ -30,9 +30,11 @@ To get started with BIKERENTALS, follow these steps:
    cd Client
    
 4.Install dependencies
+```sh
    npm install
 
 5.Create a .env file in the root directory and add your Supabase credentials:
+```sh
   VITE_SUPABASE_URL=your-supabase-url
   VITE_SUPABASE_ANON_KEY=your-anon-key
 
@@ -42,7 +44,7 @@ To get started with BIKERENTALS, follow these steps:
 
 
 1. Run the application
-
+```sh
   npm run dev
 
 2. Open your browser and navigate to http://localhost:5000
