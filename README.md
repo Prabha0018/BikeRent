@@ -2,7 +2,7 @@
 
 ![RYD-ON -> "bikerental"](<https://media-hosting.imagekit.io/32fd0f8ef4cd48f6/Screenshot%202025-04-18%20175019.png?Expires=1839586876&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MOyeGSb-HrCVKQKE7oo325RyyzgGe3iNAljAt72LDtkWDIRlCqhAjszCHoj-PQYdrm1E3inAab9hYPytQPURNqmyzeIt5UX0DhsUThZsEdk~zyG9jad5drcXoGcvIlqDO-hxiIPI10zdJXQSnSTQAT4pmRvD9YyL0HdaNlqOzma6vVJALDZ9ghsDD6QYvknuJaKzxiBcGEfJbduFvHQ3gFKbKb57WbXLyv7WvDK2tzaywS29QH7x4uUFQ26hx388Djcp8RIC-9sSbr5Dbu1PvJSURZ2eMPIPrQqWqkRKvBBu6bMxAZRmzoERwxrDpRBpJGZuEM5mZa2tqbk0eu7bWw__>)
 
-BIKERENTALS is a MERN stack-inspired project developed using Vite, React, and Supabase. It's an online bike rental platform that allows users to explore, compare, and reserve bikes for both personal and business purposes.
+BIKERENTALS is a stack-inspired project developed using Vite, React, and Supabase. It's an online bike rental platform that allows users to explore, compare, and reserve bikes for both personal and business purposes.
 
 site in live⚡ click the link for demo -> https://ryd-on.netlify.app/
 
